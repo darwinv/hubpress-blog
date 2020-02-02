@@ -5,6 +5,26 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://darwinv.github.io/hubpress-blog",
+    "hubpress": "https://darwinv.github.io/hubpress-blog",
+    "theme": "//darwinv.github.io/hubpress-blog/themes/casper",
+    "images": "https://darwinv.github.io/hubpress-blog/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
