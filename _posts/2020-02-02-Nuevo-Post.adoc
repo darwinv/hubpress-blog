@@ -1,0 +1,5 @@
+= Nuevo Post
+Hola este es un nuevo post
+
+:hp-tags: HubPress, Blog, Open_Source,
+:hp-alt-title: My English Title
